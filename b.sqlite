@@ -1,0 +1,3 @@
+./configure --prefix=$HOME/ins/ins_sqlite
+make 
+time make install
